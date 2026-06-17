@@ -65,6 +65,8 @@ All repositories include: SECURITY.md, MIT License, CI workflow, Dockerfile, .gi
 
 ## 📫 Contact
 
+[![GitPay](https://img.shields.io/badge/GitPay-Support-1f883d?style=for-the-badge&logo=git&logoColor=white)](https://gitpay.app/Raphasha27)
+
 - GitHub: [github.com/Raphasha27](https://github.com/Raphasha27)
 - LinkedIn: [linkedin.com/in/koketso-raphasha](https://za.linkedin.com/in/koketso-raphasha-517954387)
 - Email: koketso@kirovdynamics.com
